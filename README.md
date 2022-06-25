@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am specialized in UX Design and I have expertise in Web Design using languages like HTML5, CSS and JS
+
+***
+
+🔭   **Looking for work**
+✨   I can help you with UX Design | UI Design | Front-end development
+⚡   About me: From cinema to design and IT
+📫   Contacts: **[LinkedIn](https://www.linkedin.com/in/henriquedebarros)** | <henrique.dias.soares@gmail.com>
+
 <!--
 **henriquedebarros/henriquedebarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
